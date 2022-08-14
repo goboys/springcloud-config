@@ -1,0 +1,9 @@
+server:
+  port: 80
+  
+
+test:
+  msg: test环境
+
+
+
